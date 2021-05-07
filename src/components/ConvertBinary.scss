@@ -1,0 +1,36 @@
+body {
+    background: #000;
+}
+
+.container {
+    padding-top: 10%;
+    padding-left: 40%;
+    padding-right: 40%;
+    text-align: center;
+
+    h1 {
+        color: #4CAF50;
+    }
+}
+
+.child {
+    width: 100%;
+}
+
+.inputBinary {
+    color: #000;
+    height: 50px;
+    width: 100%;
+    border: 2;
+    font-size: x-large;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.resultDecimal{
+    color: #fff;
+    font-style: italic;
+    font-weight: bold;
+    margin-top: 50px;
+    font-size: medium;
+}
